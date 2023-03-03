@@ -1,8 +1,8 @@
 # Check-List-App
 
 - This Project has both frontend as well as backend
-- Frontend Tech used - ViteJs, ReactJs, TailwindCSS.
-- BAckend tech - ExpressJs and MongoDB Atlas/Compass.
+- Frontend Tech - ViteJs, ReactJs, TailwindCSS.
+- BAckend Tech - ExpressJs and MongoDB Atlas/Compass.
 
 # How to Run ?
 - Clone both frontend and server folder
