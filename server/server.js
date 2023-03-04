@@ -7,7 +7,7 @@ app.use(cors());
 const mongoose = require("mongoose");
 require('dotenv').config();
 
-mongoose.connect("mongodb://localhost:27017/checkListApp",{
+mongoose.connect(process.env.MONGO,{
   useNewUrlParser: true,
   useUnifiedTopology: true
 }).then(()=>{
